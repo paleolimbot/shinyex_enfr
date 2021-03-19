@@ -1,0 +1,10 @@
+{
+  "languages": ["key", "en", "fr"],
+  "translation": [
+    {
+      "key": "window_title",
+      "en": "A multi-language Shiny Application",
+      "fr": "Une application Shiny multilingue"
+    }
+  ]
+}
